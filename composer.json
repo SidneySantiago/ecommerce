@@ -1,9 +1,9 @@
 {
-    "name": "SidneySantiago/ecommerce",
+    "name": "stscosta/ecommerce",
     "authors": [
         {
-            "name": "Sidney Santiago",
-            "email": "sidneyts.costa@gmail.com"
+            "name": "Sidney Costa",
+            "email": "civadm135@gmail.com"
         }
     ],
     "require": {
@@ -13,7 +13,8 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
+
 }
